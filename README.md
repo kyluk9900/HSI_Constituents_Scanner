@@ -11,9 +11,10 @@ This project consists of a Python program that scrapes the price data of all Han
 - <b>yfinance</b>
 - <b>BeautifulSoup</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program Demo:</h2>
 
 <p align="center">
 Program output on 17th Sep 2022: <br/>
 <img src="https://i.imgur.com/lPUtCGG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+</p>
